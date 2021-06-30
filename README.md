@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityapeen
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web Developmet
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adityapeen@gmail.com
